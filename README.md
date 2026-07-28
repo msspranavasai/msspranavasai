@@ -230,14 +230,30 @@ Experience teaching computer science, mentoring students, developing technical c
 ## `06.` CONTRIBUTION ACTIVITY
 <div align="center"> <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=msspranavasai&bg_color=020617&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Pranava%20Sai%20Maganti's%20Contribution%20Graph" alt="Contribution activity graph"/> </div> <br> <!-- ========================= CONNECT ========================= -->
 
+<br>
+<hr>
 
-## `07.` LET'S CONNECT
 <div align="center">
 
-I am always interested in conversations around ML systems, compiler optimization, intelligent developer tools, research collaborations, and ambitious engineering projects.
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=false&width=950&height=70&lines=reason+%C2%B7+execute+%C2%B7+validate+%C2%B7+improve"
+  alt="Reason, execute, validate, and improve"
+/>
+
+<p>
+  <strong>Building intelligent systems that connect AI reasoning with real software execution.</strong>
+</p>
+
+<p>
+  <sub>ML Systems · Compilers · Agentic AI · Developer Infrastructure</sub>
+</p>
 
 <br>
-<br><br>
 
-Building intelligent systems that can reason, execute, validate, and improve.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,55:312E81,100:020617" alt="Footer"/> </div>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:312E81,100:7C3AED"
+  alt="Footer"
+/>
+
+</div>
